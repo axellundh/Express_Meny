@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Express Meny</string>
+    <string name="action_settings">Settings</string>
+    <string name="Express_Course"> </string>
+    <string name="action_refresh">Refresh</string>
+    <string name="menuURL">https://chalmerskonferens.se/en/lunchmenyer-johanneberg/</string>
+</resources>
